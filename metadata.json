@@ -1,0 +1,6 @@
+{
+  "name": "Sajilo Ride",
+  "description": "Nepal-focused ride-hailing app with localized travel options, dual-language interface, offline map awareness, fare surcharges for hills, and integration of eSewa and Khalti.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
